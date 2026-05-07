@@ -21,7 +21,8 @@
       }
     },
     "android": {
-      "permissions": [
+  "package": "com.convr.app",
+  "permissions": [
         "READ_EXTERNAL_STORAGE",
         "WRITE_EXTERNAL_STORAGE",
         "READ_MEDIA_IMAGES",
